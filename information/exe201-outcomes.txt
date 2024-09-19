@@ -1,0 +1,38 @@
+Môn KN 2
+Số tín chỉ <3>
+Cấp độ <Cử nhân>
+Phân bổ thời gian " - Học với giảng viên: 10 buổi (1 buổi/tuần x 10 tuần; 1,5h/buổi)
+- Mentor' Mentoring: 3 phần (1h/phần)
+- Hội thảo: 5 phần (Seminar)
+Điều kiện tiên quyết EXE101
+Mô tả “- Ở Trải nghiệm thực nghiệm 2, các nhóm sinh viên sẽ phát triển sản phẩm cho ý tưởng khởi nghiệp đã chuẩn bị từ Trải nghiệm thực nghiệm 1 và triển khai bán hàng, tìm kiếm khách hàng thực tế cho sản phẩm/dịch vụ của nhóm mình.
+Ngoài ra, sẽ có các seminar, workshop với các chủ đề liên quan được lên kế hoạch và triển khai trong mỗi học kỳ tùy theo nhu cầu và tình hình triển khai thực tế.”
+Lưu ý "Điểm đánh dấu tiến độ:
+- Kết quả học tập của học sinh được đánh giá dựa trên 03 chuẩn đầu ra, bao gồm:
+Kết quả 1 - Sản phẩm khả thi tối thiểu (MVP) 
+Kết quả 2 - Kế hoạch thu hút khách hàng (CAP) customer acquisition plan
+Kết quả 3 - Số lượng khách hàng có được, tức là,
+- Nếu khách hàng mục tiêu của startup là cá nhân: cần tiếp cận ít nhất 20 khách hàng trả tiền để sử dụng sản phẩm/dịch vụ mà nhóm khởi nghiệp cung cấp.
+- Nếu khách hàng mục tiêu là tổ chức: tối thiểu 2 khách hàng trả tiền, với tổng số ít nhất 20 nhân viên trực tiếp sử dụng sản phẩm/dịch vụ.
+- Nếu nó theo mô hình freemium với doanh thu đến từ các nguồn khác (ví dụ: quảng cáo): cần có ít nhất 100 người dùng đang hoạt động.
+- Nếu là sản phẩm nền tảng hai mặt kết nối hai đối tượng người dùng (ví dụ sàn thương mại điện tử, ứng dụng gọi xe…): có ít nhất 20 người dùng tạo ra ít nhất 100 giao dịch trả phí.
+Nếu sau 10 tuần, nhóm vẫn chưa đạt được Kết quả 3, thì các nhóm sẽ có thêm 4 tuần để thử lại. Sau 14 tuần, nếu nhóm vẫn không đạt được Kết quả 3, có 2 khả năng xảy ra:
+một. Nhóm đã đạt Kết quả 1 & 2 và có bằng chứng về việc thực hiện CAP, họ sẽ được coi là Đạt Kết quả 3.
+b. Nếu không, nhóm sẽ trượt môn học và phải thi môn tự chọn thay thế theo quy định.
+Điều kiện để vượt qua:
+- Kết quả 1: MVP chạy tốt và sẵn sàng đưa ra thị trường (40%)
+- Kết quả 2: CAP bao gồm tất cả các khía cạnh cần thiết và thực dụng (20%)
+- Kết quả 3: Bằng chứng về việc khách hàng đã thanh toán thỏa mãn các điều kiện nêu trên (40%)
+Điểm trung bình tối thiểu để vượt qua <5>
+Thang điểm <10>
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+1. MVP Source code
+2. Video Demo MVP
+3. SWOT
+4. Business Model Canvas ( từ khởi nghiệp 1 các em thêm, chỉnh sửa phù hợp với KN2 và dự án mình ở thời điểm hiện tại)
+5. Kế hoạch Kinh doanh
+6. Kế hoạch thu hút khách hàng ( Kế hoạch Marketing)
+7. Minh chứng giao dịch, doanh thu từ bán hàng sản phẩm và dịch vụ của mình ( Minh chứng bằng chuyển khoản, hình ảnh giao dịch…)
+8. Tài chính ( Mô tả dòng tiền hiện tại, điểm hòa vốn và tầm nhìn dòng tiền từ 3-5 năm tới của Business của mình)
+9. Tầm nhìn và chiến lược 5 năm đến của Business của mình
+
