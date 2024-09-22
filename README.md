@@ -87,5 +87,3 @@ Copyright by **Denticare**. All rights reserved.
 
 For more information about the business and to access resources, please contact the team leader.
 
-![Denticare-Poster](./images/LOGO%203.png)
-
